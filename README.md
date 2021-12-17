@@ -1,4 +1,4 @@
-#  Welcome to Stepup - my Startup 
+#  Welcome to Stepup - My Startup 
      
 # Hello Everyone,
 
